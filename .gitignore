@@ -1,0 +1,58 @@
+# Secrets and configuration
+config.json
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.pdf
+resume.pdf
+*.mp3
+*.wav
+*.log
+debug.log
+.cursor/
+
+# JSON data files (may contain sensitive info)
+shelter_preferences.json
+shelters.json
+shelter_responses.json
+homeless_shelters.json
+
+config.bat
+node_modules

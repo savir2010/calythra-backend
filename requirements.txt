@@ -1,0 +1,8 @@
+twilio
+elevenlabs
+flask
+weasyprint
+jinja2
+openai
+supabase
+

@@ -1,0 +1,15 @@
+{
+  "user_info": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "phone": "+1234567890",
+    "address": "Your Address Here"
+  },
+  "openai_api_key": "sk-...",
+  "supabase": {
+    "url": "https://your-project.supabase.co",
+    "key": "your-supabase-key",
+    "bucket": "resumes"
+  }
+}
+
